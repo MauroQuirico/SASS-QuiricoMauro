@@ -1,13 +1,4 @@
-$bg--header:#290418;
-$bg--main:#505217;
-$bg--footer:#FFD372;
-
-header{
-    background-color: $bg--header;
-}
-main{
-    background-color: $bg--main;
-}
-footer{
-    background-color: $bg--footer;
-}
+@import "colores";
+@import "header";
+@import "main";
+@import "footer";
